@@ -4,3 +4,7 @@ kkk
 gg
 kk
 ll
+#include<stdio.h>
+void main(){
+	return ;
+}
